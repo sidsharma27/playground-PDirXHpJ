@@ -1,4 +1,4 @@
-This is Kyle's first playground about React
+Testing 
 
 # Hands-on Demo
 
